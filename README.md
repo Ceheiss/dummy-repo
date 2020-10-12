@@ -2,12 +2,14 @@
 
 ## Subtitle
 
-Hey some info bellow subtitle
+Hey some info bellow.
 
 ## Second Subtitle
+
+More info
 
 ## Third Subtitle
 
 some plain text
 
-© Copyright
+© Copyright 2020
