@@ -1,6 +1,6 @@
-# TITLE HELLO
+# Hello World
 
-## Subtitle
+## This is an awful Subtitle
 
 Hey some info bellow subtitle. Coolbeans.
 Add more lines to practice rebase.
