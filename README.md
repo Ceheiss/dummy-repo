@@ -2,11 +2,13 @@
 
 ## Subtitle
 
-Hey some info bellow subtitle. Coolbeans
+Hey some info bellow subtitle. Coolbeans.
+Add more lines to practice rebase.
 
 ## Second Subtitle
 
 More info
+
 ## Third Subtitle
 
 Hey some more text
