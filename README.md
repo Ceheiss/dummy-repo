@@ -6,10 +6,11 @@ Hey some info bellow subtitle. Coolbeans
 
 ## Second Subtitle
 
+More info
 ## Third Subtitle
 
 Hey some more text
 
 some plain text
 
-© Copyright, 2019
+© Copyright 2020
