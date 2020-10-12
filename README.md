@@ -2,12 +2,14 @@
 
 ## Subtitle
 
-Hey some info bellow subtitle
+Hey some info bellow subtitle. Coolbeans
 
 ## Second Subtitle
 
 ## Third Subtitle
 
+Hey some more text
+
 some plain text
 
-© Copyright
+© Copyright, 2019
