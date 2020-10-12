@@ -12,5 +12,6 @@ More info
 Hey some more text
 
 some plain text
-
+-----------------------
 © Copyright 2020
+-----------------------
